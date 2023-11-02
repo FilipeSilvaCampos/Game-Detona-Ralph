@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src"
+    "\\src",
+    "\\src\\styles"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\src\\mp3",
   "PreviewInSolutionExplorer": false
 }
